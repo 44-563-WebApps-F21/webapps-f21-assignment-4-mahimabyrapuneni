@@ -1,0 +1,66 @@
+
+.speech{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color:rgb(20,40,30);
+  
+  font-weight: normal;
+}
+.stage-direction{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: black;
+  background-color: rgb(238, 144, 199);
+  display: inline;
+}
+.stage-direction:hover{
+  color: rgb(255, 255, 255);
+  background-color: rgb(15, 20, 88);
+}
+.name:hover{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(113, 28, 192);
+  font-size: 20px;
+  text-shadow: 2px 2px 5px rgb(47, 166, 221);
+}
+.MARCHMONT{
+  color: red;
+  font-size: 20px;
+}
+.LADYBASILDON{
+  color: rgb(82, 20, 197);
+  font-size: 20px;
+}
+.LORDCAVERSHAM{
+  color: rgb(50, 196, 31);
+  font-size: 20px;
+}
+.LADYCHILTERN{
+  color: rgb(196, 31, 127);
+  font-size: 20px;
+}
+
+.MABELCHILTERN{
+    color: rgb(196, 119, 31);
+    font-size: 20px;
+  }
+  .LORDCAVERSHAMERN{
+    color: rgb(31, 163, 196);
+    font-size: 20px;
+  }
+  .VICOMTEDENANJAC{
+    color: rgb(196, 31, 122);
+    font-size: 20px;
+  }
+  .MRS.CHEVELEY{
+    color: rgb(31, 196, 188);
+    font-size: 20px;
+  }
+  .SIRROBERTCHILTERN{
+    color: rgb(119, 196, 31);
+    font-size: 20px;
+  }
+  .LADYMARKBY{
+    color: rgb(196, 31, 31);
+    font-size: 20px;
+  }
